@@ -1,0 +1,16 @@
+.text{
+   
+    float: left;
+    width: 100%;
+}
+
+.hey{
+    border: 1px solid rgb(28, 10, 69);  
+    background-color: #afc1e0;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:5px;
+    border-radius: 10px;
+    color: #0b183d;
+}

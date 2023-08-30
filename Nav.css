@@ -1,0 +1,49 @@
+.navbar{
+    display: flex;
+    border: 1px solid rgb(136, 140, 169);
+    width: 100%;
+    height: 30px;
+    align-items: center;
+    justify-content: center; 
+    background-color: rgb(93, 102, 130);
+}
+
+body {
+    overflow-x: hidden; /* This will hide the horizontal scrollbar */
+}
+
+.user_input{
+    border-radius: 20px;
+    border-color: #6590d5;
+    width:100px;
+    height: 20px;
+}
+
+h2{
+    margin-right: auto;
+    color: #eeedf5;
+}
+
+.buttons{ 
+    margin: 0 10px;
+    text-align: center;
+    color: #ffff;
+}
+
+.image{
+    width: 100%;
+    height:auto;
+}
+
+.imgage img{
+    margin: 0; 
+    padding: 0; 
+    margin-left: 0px;
+    width:100%;
+    height:600px;
+}
+
+.caption{
+    text-align: center;
+    color: #f9f9fc;
+}
